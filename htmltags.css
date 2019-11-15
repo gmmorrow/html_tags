@@ -1,0 +1,38 @@
+main {
+border: 25px dotted pink; 
+
+}
+
+h1 {
+    font-family: 'Merienda One', cursive;
+    
+
+}
+p::first-letter {
+    font-weight: bold;
+    color: #CBBFAC;
+    font-family: 'Cinzel', serif;
+    font-size: 32px;
+
+  }
+ 
+  
+  h2 {
+    font-family: 'Vollkorn', serif;
+
+  }
+
+  h3{
+    font-family: 'Vollkorn', serif;
+
+  }
+p {
+font-family: 'Cinzel', serif;
+font-size: 22px;
+    font-size-adjust: .5;
+
+
+}
+img{
+    width: 200px;
+}
